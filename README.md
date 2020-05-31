@@ -6,4 +6,6 @@ this is simple game made in react.js.
 
 2:Materialise.css : Css library for front end 
 
-### for screenshots see the repo
+### for screenshots 
+
+<img> ![Screenshot](screenshot.png) </img>
