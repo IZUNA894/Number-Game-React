@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Number-Game-React/static/css/main.661e324c.chunk.css",
+    "main.js": "/Number-Game-React/static/js/main.a06a2804.chunk.js",
+    "main.js.map": "/Number-Game-React/static/js/main.a06a2804.chunk.js.map",
+    "runtime-main.js": "/Number-Game-React/static/js/runtime-main.bd71d891.js",
+    "runtime-main.js.map": "/Number-Game-React/static/js/runtime-main.bd71d891.js.map",
+    "static/js/2.884bb6da.chunk.js": "/Number-Game-React/static/js/2.884bb6da.chunk.js",
+    "static/js/2.884bb6da.chunk.js.map": "/Number-Game-React/static/js/2.884bb6da.chunk.js.map",
+    "index.html": "/Number-Game-React/index.html",
+    "precache-manifest.7c3deabdd523559c28819e17b37ca123.js": "/Number-Game-React/precache-manifest.7c3deabdd523559c28819e17b37ca123.js",
+    "service-worker.js": "/Number-Game-React/service-worker.js",
+    "static/css/main.661e324c.chunk.css.map": "/Number-Game-React/static/css/main.661e324c.chunk.css.map",
+    "static/js/2.884bb6da.chunk.js.LICENSE.txt": "/Number-Game-React/static/js/2.884bb6da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd71d891.js",
+    "static/js/2.884bb6da.chunk.js",
+    "static/css/main.661e324c.chunk.css",
+    "static/js/main.a06a2804.chunk.js"
+  ]
+}
